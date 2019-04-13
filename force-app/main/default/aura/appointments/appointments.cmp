@@ -1,8 +1,13 @@
 <aura:component implements="flexipage:availableForAllPageTypes, force:hasRecordId" access="global" controller="RestaurantFinder">
     <aura:attribute name="recordId" type="String" />
     <aura:attribute name="eventsList" type="List" />
+   
+    <aura:attribute name="lat" type="String" />
+    <aura:attribute name="lon" type="String" />
+    <aura:attribute name="name" type="String" />
 
     <aura:handler name="init" value="{! this }" action="{! c.doInit }"/>
+    <c:auraPubsub aura:id="pubsub" onready="{!c.handlePubsubReady}" />
     
     <div class="slds">
         <div class="bg-white">
@@ -11,7 +16,9 @@
             </h2>
             <lightning:tabset selectedTabId="one">
                 <lightning:tab label="Book New" id="one">
-                    TBD
+                    
+                    <c:bookAppointment lat="{!v.lat}" lon="{!v.lon}" name="{!v.name}" recordId="{!v.recordId}"></c:bookAppointment>
+                    
                 </lightning:tab>
                 <lightning:tab label="Past Appointments" id="two">
                     <ul class="slds-has-dividers_bottom-space">

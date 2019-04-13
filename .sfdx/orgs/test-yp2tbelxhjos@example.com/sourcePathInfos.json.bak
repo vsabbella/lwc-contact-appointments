@@ -1,0 +1,378 @@
+[
+    [
+        "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app",
+        {
+            "sourcePath": "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1555089055553,
+            "changeTime": 1555089055553,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main",
+        {
+            "sourcePath": "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1555089055553,
+            "changeTime": 1555089055553,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default",
+        {
+            "sourcePath": "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1555089055561,
+            "changeTime": 1555089055561,
+            "contentHash": "86fe594082a2461ac1064797cf4c04addff6672d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1555089055553,
+            "changeTime": 1555089055553,
+            "contentHash": "88e546d80c6780f88158853a5134fee8f6454378",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/aura/appointments",
+        {
+            "sourcePath": "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/aura/appointments",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1555106636685,
+            "changeTime": 1555092007165,
+            "contentHash": "d9002deae6ef43870b7010159edfb6ff0c33f7bc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/aura/appointments/appointments.cmp",
+        {
+            "sourcePath": "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/aura/appointments/appointments.cmp",
+            "isDirectory": false,
+            "size": 1578,
+            "modifiedTime": 1555106636685,
+            "changeTime": 1555106636685,
+            "contentHash": "ee2ce4de3a49350f725710b55583fcdb2c4661ed",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/aura/appointments/appointments.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/aura/appointments/appointments.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 244,
+            "modifiedTime": 1555089055554,
+            "changeTime": 1555089055554,
+            "contentHash": "baf1c395aee39ddbba672ca4934d7a55acca4cb2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/aura/appointments/appointments.css",
+        {
+            "sourcePath": "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/aura/appointments/appointments.css",
+            "isDirectory": false,
+            "size": 61,
+            "modifiedTime": 1555089055554,
+            "changeTime": 1555089055554,
+            "contentHash": "70260f8eecefea4c0153abb6fe860c68fa3787fe",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/aura/appointments/appointmentsController.js",
+        {
+            "sourcePath": "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/aura/appointments/appointmentsController.js",
+            "isDirectory": false,
+            "size": 684,
+            "modifiedTime": 1555106636686,
+            "changeTime": 1555106636686,
+            "contentHash": "8efb3a4991c276c075bb02163dd1e80da64dc0b9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1555089055555,
+            "changeTime": 1555089055555,
+            "contentHash": "5b2ae38c941070ae67b40c338dba51db82f6a67b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/classes/RestaurantFinder.cls",
+        {
+            "sourcePath": "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/classes/RestaurantFinder.cls",
+            "isDirectory": false,
+            "size": 1633,
+            "modifiedTime": 1555089055555,
+            "changeTime": 1555089055555,
+            "contentHash": "6e495ff9a3b7ed0476fb93a9bdf98ae008be28fd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/classes/RestaurantFinder.cls-meta.xml",
+        {
+            "sourcePath": "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/classes/RestaurantFinder.cls-meta.xml",
+            "isDirectory": false,
+            "size": 194,
+            "modifiedTime": 1555089055555,
+            "changeTime": 1555089055555,
+            "contentHash": "2bba24a57b7b7a8e0dfb68ce9de426587ea6b2a7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/flexipages",
+        {
+            "sourcePath": "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1555105611467,
+            "changeTime": 1555092007165,
+            "contentHash": "32f1b6b4eb2c3f479592c779097b710dcc7020dd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/flexipages/Contact_Record_Page.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/flexipages/Contact_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 6614,
+            "modifiedTime": 1555105611467,
+            "changeTime": 1555105611467,
+            "contentHash": "f1a6b7cf5b1ee34443a3fbed6fd8f87454cdaef7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/lwc",
+        {
+            "sourcePath": "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/lwc",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1555107956355,
+            "changeTime": 1555107956355,
+            "contentHash": "fa21fe3f49808ed88b1b24940df73957e9bad657",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/remoteSiteSettings",
+        {
+            "sourcePath": "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/remoteSiteSettings",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1555089055560,
+            "changeTime": 1555089055560,
+            "contentHash": "41315847d50a268f6c8e150c53d673d4cac718c9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/remoteSiteSettings/Yelp.remoteSite-meta.xml",
+        {
+            "sourcePath": "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/remoteSiteSettings/Yelp.remoteSite-meta.xml",
+            "isDirectory": false,
+            "size": 255,
+            "modifiedTime": 1555089055561,
+            "changeTime": 1555089055561,
+            "contentHash": "f34fa5d8484e30ae15a6d899aff1a99fe0d65897",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/staticresources",
+        {
+            "sourcePath": "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1555089055561,
+            "changeTime": 1555089055561,
+            "contentHash": "d2b7d729394b137529950d5549d4dd2d4d4be965",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/staticresources/empty.resource-meta.xml",
+        {
+            "sourcePath": "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/staticresources/empty.resource-meta.xml",
+            "isDirectory": false,
+            "size": 207,
+            "modifiedTime": 1555089055561,
+            "changeTime": 1555089055561,
+            "contentHash": "65035942a67836aab7507ed3e1e94e60cc6b3858",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/staticresources/empty.svg",
+        {
+            "sourcePath": "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/staticresources/empty.svg",
+            "isDirectory": false,
+            "size": 14881,
+            "modifiedTime": 1555089055561,
+            "changeTime": 1555089055561,
+            "contentHash": "434d757c08bd69321b0b9e1ab52ddb3ae78520f3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments",
+        {
+            "sourcePath": "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1555089055561,
+            "changeTime": 1555089055561,
+            "contentHash": "93b303fc40e3602ad1121ea06637359011521e16",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/lwc/nearestRestaurants",
+        {
+            "sourcePath": "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/lwc/nearestRestaurants",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1555107956355,
+            "changeTime": 1555107956355,
+            "contentHash": "5c9f07f8afcfab15e5af6380a9f934b50e9781ca",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/lwc/nearestRestaurants/nearestRestaurants.css",
+        {
+            "sourcePath": "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/lwc/nearestRestaurants/nearestRestaurants.css",
+            "isDirectory": false,
+            "size": 114,
+            "modifiedTime": 1555107968303,
+            "changeTime": 1555107968303,
+            "contentHash": "78abf070910718dfbd3824a52ed1bc3d0f7eb2e1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/lwc/nearestRestaurants/nearestRestaurants.html",
+        {
+            "sourcePath": "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/lwc/nearestRestaurants/nearestRestaurants.html",
+            "isDirectory": false,
+            "size": 990,
+            "modifiedTime": 1555109946600,
+            "changeTime": 1555109946600,
+            "contentHash": "5819d1a00998a560504843c9e4e728ff9321c543",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/lwc/nearestRestaurants/nearestRestaurants.js",
+        {
+            "sourcePath": "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/lwc/nearestRestaurants/nearestRestaurants.js",
+            "isDirectory": false,
+            "size": 308,
+            "modifiedTime": 1555109916667,
+            "changeTime": 1555109916667,
+            "contentHash": "476e8539eeddc84f9a595fd4e6b561c606abe0b1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/lwc/nearestRestaurants/nearestRestaurants.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vsabbell/OneDrive - Informatica/Projects/LWC/contact-appointments/force-app/main/default/lwc/nearestRestaurants/nearestRestaurants.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 317,
+            "modifiedTime": 1555110215826,
+            "changeTime": 1555110215826,
+            "contentHash": "0555532bb011df1fb862bbe138688cba948583b3"
+        }
+    ]
+]

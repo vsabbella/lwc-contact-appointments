@@ -2,7 +2,23 @@
     "compilerOptions": {
         "experimentalDecorators": true,
         "baseUrl": ".",
-        "paths": {}
+        "paths": {
+            "c/nearestRestaurants": [
+                "nearestRestaurants/nearestRestaurants.js"
+            ],
+            "c/pubsub": [
+                "pubsub/pubsub.js"
+            ],
+            "c/auraPubsub": [
+                "auraPubsub/auraPubsub.js"
+            ],
+            "c/BookAppointment": [
+                "BookAppointment/BookAppointment.js"
+            ],
+            "c/bookAppointment": [
+                "bookAppointment/bookAppointment.js"
+            ]
+        }
     },
     "include": [
         "**/*",

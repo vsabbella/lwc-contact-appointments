@@ -16,5 +16,22 @@
             }
         });
         $A.enqueueAction(action);
+    },
+    handlePubsubReady: function(component) {
+        var pubsub = component.find('pubsub');
+        var callback = $A.getCallback(function(data) {
+            //alert(JSON.stringify(data));
+            component.set("v.lat",data.lat);
+            component.set("v.lon",data.lon);
+            component.set("v.name",data.name);
+        });
+        pubsub.registerListener('locationSelected', callback);
+    },
+
+    handleDestroy: function(component) {
+        var pubsub = component.find('pubsub');
+        pubsub.unregisterAllListeners();
     }
 })
+
+

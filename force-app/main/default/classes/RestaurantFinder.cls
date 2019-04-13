@@ -11,7 +11,7 @@ public with sharing class RestaurantFinder {
        req.setEndpoint(url);    
        req.setHeader(
            'Authorization', 
-           'Bearer zJeDq95Ck_Da4aMYmEHEsNjEx-J_1lBQumz6YDFnf4BzO1WKrW2H0DYxCtMywkDd-IX4BasXB5F1s5Xni_R7GuU5q2u-i5T3YbX8itRwMp2JE-1kpw2JlIQr7gejXHYx');
+           'Bearer lEBaR-Fudy_iiRInSrXyagwNo3clmE7yEdCAmlKM1oW8RvfOHiPHglh5OaIDEyya0f2W-Pjb5OG2Ne8kCA_dPx_lo2MvuE2dA1yBCEJx5xzWBxodwtEuXl1bch6xXHYx');
        HTTPResponse res = http.send(req);
        String response =  res.getBody();
        Map<String,Object> m = (Map<String,Object>) JSON.deserializeUntyped(response);
