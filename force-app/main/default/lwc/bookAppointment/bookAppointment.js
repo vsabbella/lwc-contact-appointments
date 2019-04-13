@@ -44,7 +44,7 @@ export default class BookAppointment extends LightningElement {
 
     handleClick(){
       BOOKAPPT({duration:this.duration,
-                      date:this.selectedDateTime,
+                      dt:this.selectedDateTime,
                       contactId:this.contactId,
                       rName:this.name
                     })

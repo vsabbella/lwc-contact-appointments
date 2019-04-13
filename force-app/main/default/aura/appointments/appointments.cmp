@@ -17,7 +17,7 @@
             <lightning:tabset selectedTabId="one">
                 <lightning:tab label="Book New" id="one">
                     
-                    <c:bookAppointment lat="{!v.lat}" lon="{!v.lon}" name="{!v.name}" recordId="{!v.recordId}"></c:bookAppointment>
+                    <c:bookAppointment lat="{!v.lat}" lon="{!v.lon}" name="{!v.name}" contactId="{!v.recordId}"></c:bookAppointment>
                     
                 </lightning:tab>
                 <lightning:tab label="Past Appointments" id="two">
